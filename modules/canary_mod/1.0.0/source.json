@@ -1,0 +1,5 @@
+{
+    "url": "https://example.invalid/canary_mod-1.0.0.tar.gz",
+    "integrity": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+    "strip_prefix": "canary_mod-1.0.0"
+}

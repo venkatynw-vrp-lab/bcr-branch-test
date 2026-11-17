@@ -1,0 +1,4 @@
+module(
+    name = "canary_mod",
+    version = "1.0.0",
+)
